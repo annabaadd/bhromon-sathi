@@ -1,0 +1,27 @@
+Scope 2: Travel Partner and Local Guide Services Requirements
+Bhromon Sathi - Bangladesh Travel Companion Application
+
+Features:
+- Search for travel partners
+- Filter partners according to matching travel dates, solo-female-friendly preference, and budget matching
+- View travel partner profiles, destinations, travel dates, interests, and NID verification status
+- Send connection requests
+- Search and view local guides
+- View guide ratings, reviews, languages, availability, and daily rates
+- Book a local guide
+
+Related User Stories:
+US-07: As a traveller, I want to find travel partners with similar dates and budgets so that I do not have to travel alone. (High)
+US-08: As a traveller, I want to see NID verification status so that I can identify trusted travel partners. (High)
+US-09: As a traveller, I want to connect with a travel partner so that we can plan a trip together. (High)
+US-10: As a traveller, I want to find local guides so that I can receive assistance at my destination. (High)
+US-11: As a traveller, I want to view guide ratings, languages, availability, and price so that I can choose a suitable guide. (High)
+US-12: As a traveller, I want to book a local guide so that I can arrange professional travel assistance. (High)
+
+Related Functional Requirements:
+FR-07: The system shall allow users to search for travel partners.
+FR-08: The system shall provide travel partner filtering options.
+FR-09: The system shall allow users to send connection requests.
+FR-10: The system shall allow users to search for local guides.
+FR-11: The system shall display guide profile information.
+FR-12: The system shall allow users to book local guides.
