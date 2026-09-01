@@ -1,0 +1,33 @@
+Scope 3: Booking, Navigation and Communication Requirements
+Bhromon Sathi - Bangladesh Travel Companion Application
+
+Features:
+- Hotel search and booking
+- Check-in and check-out date selection and guest selection
+- Hotel filtering, sorting, ratings, and pricing
+- Bus, train, launch, and flight ticket booking
+- Seat / class selection
+- Interactive travel map with nearby destinations, guides, and hotels
+- Direct chat with guides and travel partners
+- Sharing route files through chat
+- User profile management and NID verification status
+- Booking history, saved destinations, and payment method management
+
+Related User Stories:
+US-13: As a traveller, I want to search and book hotels so that I can arrange accommodation. (High)
+US-14: As a traveller, I want to book bus, train, launch, or flight tickets so that I can arrange transportation. (High)
+US-15: As a traveller, I want to use a map so that I can locate destinations, guides, and hotels nearby. (Medium)
+US-16: As a traveller, I want to chat with guides and travel partners so that I can communicate before and during my trip. (High)
+US-17: As a traveller, I want to share route information through chat so that my travel companions can follow the planned route. (Medium)
+US-19: As a traveller, I want to manage my bookings and saved destinations so that I can easily access my travel information. (Medium)
+US-20: As a traveller, I want to manage my payment methods and account settings so that I can control my account information. (Medium)
+
+Related Functional Requirements:
+FR-13: The system shall allow users to search and book hotels.
+FR-14: The system shall allow users to search transportation tickets.
+FR-15: The system shall support bus, train, launch, and flight options.
+FR-16: The system shall provide map-based travel information.
+FR-17: The system shall allow users to communicate through chat.
+FR-18: The system shall allow route / file sharing through chat.
+FR-20: The system shall allow users to manage bookings and saved destinations.
+FR-21: The system shall allow users to manage payment methods and account settings.
