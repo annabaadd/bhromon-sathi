@@ -1,0 +1,27 @@
+Scope 1: Destination Discovery and Travel Planning Requirements
+Bhromon Sathi - Bangladesh Travel Companion Application
+
+Features:
+- User onboarding and account login
+- Destination search functionality
+- Destination categories such as Beaches, Hills, Forests, Heritage, and Rivers
+- Trending destination recommendations
+- Destination details including best time to visit, travel duration from Dhaka, destination rating, weather information, description, and photos
+- Trip planning functionality
+- Access to hotels, guides, and tickets from the destination details page
+
+Related User Stories:
+US-01: As a traveller, I want to create an account so that I can use the application. (High)
+US-02: As a traveller, I want to verify my NID so that other users can trust my identity. (High)
+US-03: As a traveller, I want to search for destinations so that I can find suitable places to visit. (High)
+US-04: As a traveller, I want to browse destinations by category so that I can discover places based on my interests. (Medium)
+US-05: As a traveller, I want to view destination details so that I can understand the location before planning my trip. (High)
+US-06: As a traveller, I want to check weather information so that I can choose an appropriate time to travel. (Medium)
+
+Related Functional Requirements:
+FR-01: The system shall allow users to register and log in.
+FR-02: The system shall allow users to verify their identity using NID.
+FR-03: The system shall allow users to search for destinations.
+FR-04: The system shall allow users to browse destinations by category.
+FR-05: The system shall display destination information.
+FR-06: The system shall provide weather information for destinations.
